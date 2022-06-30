@@ -1,12 +1,12 @@
 <h1 align="center">
-   Landing Page Code Café
+   Code Café
 </h1>
 
 <br>
 
 ## 💻 Projeto
 
-Landing page de uma cafeteria fictícia.
+Code Café é uma landing page de uma cafeteria fictícia.
 
 ## 📷 Demonstração
 
